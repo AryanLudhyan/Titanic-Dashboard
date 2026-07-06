@@ -197,7 +197,7 @@ with col1:
     st.code(cr)
 with col2:
     st.subheader("Predicted Vs Actual")
-    fig,ax = plt.subplots(figsize=(4,4))
+    fig,ax = plt.subplots(figsize=(6,3))
     sns.heatmap(
     cm, fmt="d",
     annot=True,

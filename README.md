@@ -89,15 +89,4 @@ The dashboard includes:
 
 ---
 
-## 📁 Project Structure
-
-```
-Titanic-Dashboard/
-│
-├── app.py
-├── dataset.csv
-├── requirements.txt
-├── README.md
-└── eda.ipynb
-```
 

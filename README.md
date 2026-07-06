@@ -6,10 +6,9 @@ This project allows users to explore passenger data using interactive filters, v
 
 ---
 
-## 📸 Dashboard Preview
+## 🔗 Live Demo
 
-> Add screenshots here after uploading your project.
-
+👉 [https://your-app-name.streamlit.app](https://titanic-dashboard-tc68zfsyi9laechdsfgbdp.streamlit.app/)
 Example:
 
 - Dashboard Home

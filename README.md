@@ -9,13 +9,6 @@ This project allows users to explore passenger data using interactive filters, v
 ## 🔗 Live Demo
 
 👉 [https://your-app-name.streamlit.app](https://titanic-dashboard-tc68zfsyi9laechdsfgbdp.streamlit.app/)
-Example:
-
-- Dashboard Home
-- KPI Cards
-- Interactive Charts
-- Confusion Matrix
-
 ---
 
 ## ✨ Features
